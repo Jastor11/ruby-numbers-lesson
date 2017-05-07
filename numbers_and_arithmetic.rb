@@ -4,7 +4,7 @@
 
 # The ruby interpreter will read our computer programs from top to bottom of each file, starting with the numbers we see on the left side of our text editor. 
 
-# Uur ruby interpreter looks through the code for data types and key words.
+# Our ruby interpreter looks through the code for data types and key words.
 # So, if we organize our code in a way ruby is prepared to handle, we can get computers
 # to do some pretty cool stuff.
 
